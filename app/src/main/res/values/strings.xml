@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="Bienvenido_A_La_Empresa">My Primer activity</string>
+
+    <string name="BotonSiguiente2">Siguiente2</string>
+
+    <string name="BotonAnteriror">anterior</string>
+    <string name="tv2">Regresaaoinicio</string>
+
+
+</resources>
